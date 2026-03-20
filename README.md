@@ -1,5 +1,4 @@
 # Mobile-Data-Analysis
-# Mobile Market Tech & Price Analysis (Power BI)
 
 This project is a comprehensive data visualization of the global mobile device market. Using a dataset of various brands and specifications, I built this dashboard to track how hardware features (RAM, Camera, Processors) correlate with pricing across different regions.
 
